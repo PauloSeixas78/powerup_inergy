@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">iEnergy</string>
+    <string name="activity_main_usuario">Usuário</string>
+    <string name="activity_main_senha">Senha</string>
+    <string name="activity_main_esqueci">Esqueci a senha</string>
+    <string name="activity_main_cadastrar">Cadastrar-se</string>
+
+    <string name="activity_tela_gestao_sistema_configuracao">Configurações</string>
+    <string name="activity_tela_gestao_sistema_dispositivos">Dispositivos</string>
+
+    <string name="activity_tela_configuracao_preco"></string>
+    <string name="activity_tela_configuracao_circuito"></string>
+    <string-array name="activity_tela_configuracao_circuito_lista">
+        <item>monofásico 110V</item>
+        <item>monofásico 220V</item>
+        <item>bifásico 220V</item>
+        <item>trifásico 350V </item>
+    </string-array>
+    <string name="activity_tela_configuracao_data_medicao">Data da medição</string>
+
+    <string name="activity_tela_dispositivos_cadastro_dispositivos">Dispositivos</string>
+
+</resources>
