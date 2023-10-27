@@ -26,16 +26,16 @@
         android:textSize="60sp" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/buttonSistemaGestaoConfiguracoes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="Button" />
+        android:text="@string/activity_tela_gestao_sistema_configuracao" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/buttonGestaoSistemaDispositivos"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="Button" />
+        android:text="@string/activity_tela_gestao_sistema_dispositivos" />
 </LinearLayout>
