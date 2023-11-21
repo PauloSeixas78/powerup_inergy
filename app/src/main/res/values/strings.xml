@@ -9,7 +9,7 @@
     <string name="activity_tela_gestao_sistema_configuracao">Configurações</string>
     <string name="activity_tela_gestao_sistema_dispositivos">Dispositivos</string>
 
-    <string name="activity_tela_configuracao_preco"></string>
+    <string name="activity_tela_configuracao_preco">Preco</string>
     <string name="activity_tela_configuracao_circuito"></string>
     <string-array name="activity_tela_configuracao_circuito_lista">
         <item>monofásico 110V</item>

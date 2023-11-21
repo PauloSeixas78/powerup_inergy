@@ -12,7 +12,7 @@
         android:id="@+id/textView5"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="0,020 KWh"
         android:textAlignment="center"
         android:textSize="60sp" />
 
@@ -21,7 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:text="TextView"
+        android:text="0,016 R$"
         android:textAlignment="center"
         android:textSize="60sp" />
 
